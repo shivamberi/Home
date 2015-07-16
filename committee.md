@@ -61,7 +61,7 @@
 * Mohd Abdulla
 * [Teja Vojjala](https://github.com/iit2014086)
 * Utkarsh Srivastava
-* Shivam Beri
+* [Shivam Beri] (https://github.com/shivamberi)
 
 ##Amethi Council
 ###Co-ordinators
